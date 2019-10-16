@@ -1,0 +1,20 @@
+.example-card {
+    width: 33.3%;
+    margin-top: 5%;
+    margin-left: 33.3%;
+    margin-right: 33.3%;
+}
+.Campos {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.titulo {
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.Boton {
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
